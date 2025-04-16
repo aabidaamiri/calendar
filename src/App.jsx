@@ -69,7 +69,7 @@ const App = () => {
             <div className='flex flex-col'>
               {/* first row */}
             <div className='flex mt-1 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>1</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -98,7 +98,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>2</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -127,7 +127,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>3</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -156,7 +156,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>4</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -185,7 +185,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>5</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -214,7 +214,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>6</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -243,7 +243,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>7</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -272,7 +272,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>8</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -301,7 +301,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.6px]'>9</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -329,7 +329,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
-            <div className='flex mt-0.5 ml-[-5px]'>
+            <div className='flex mt-0.5 ml-[-6px]'>
             <span className='text-[3px] mr-1'>10</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
