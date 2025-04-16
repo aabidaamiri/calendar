@@ -36,31 +36,31 @@ const App = () => {
         <div className='bg-white h-40 m-6 p-5 shadow-2xl shadow-gray-300'>
           <p className='text-[0.2rem]'>Weeks</p>
           <div className='flex'>
-            <span className='text-[3px] mr-[4.6px] ml-[2px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
-            <span className='text-[3px] mr-[4.6px]'>-</span>
+            <span className='text-[2px] mr-[4.5px] ml-[2px]'>1</span>
+            <span className='text-[2px] mr-[4.5px]'>2</span>
+            <span className='text-[2px] mr-[4.5px]'>3</span>
+            <span className='text-[2px] mr-[4.5px]'>4</span>
+            <span className='text-[2px] mr-[4.5px]'>5</span>
+            <span className='text-[2px] mr-[4.5px]'>6</span>
+            <span className='text-[2px] mr-[4.5px]'>7</span>
+            <span className='text-[2px] mr-[4.5px]'>8</span>
+            <span className='text-[2px] mr-[4.5px]'>9</span>
+            <span className='text-[2px] mr-[4.5px]'>10</span>
+            <span className='text-[2px] mr-[4.5px]'>11</span>
+            <span className='text-[2px] mr-[4.5px]'>12</span>
+            <span className='text-[2px] mr-[4.5px]'>13</span>
+            <span className='text-[2px] mr-[4.5px]'>14</span>
+            <span className='text-[2px] mr-[4.5px]'>15</span>
+            <span className='text-[2px] mr-[4.5px]'>16</span>
+            <span className='text-[2px] mr-[4.5px]'>17</span>
+            <span className='text-[2px] mr-[4.5px]'>18</span>
+            <span className='text-[2px] mr-[4.5px]'>19</span>
+            <span className='text-[2px] mr-[4.5px]'>20</span>
+            <span className='text-[2px] mr-[4.5px]'>21</span>
+            <span className='text-[2px] mr-[4.5px]'>22</span>
+            <span className='text-[2px] mr-[4.5px]'>23</span>
+            <span className='text-[2px] mr-[4.5px]'>24</span>
+            <span className='text-[2px] mr-[4.5px]'>25</span>
             <span className='text-[3px] mr-1'>26</span>
           </div>
           {/* two columns in this page */}
@@ -69,7 +69,7 @@ const App = () => {
             <div className='flex flex-col'>
               {/* first row */}
             <div className='flex mt-1 ml-[-5px]'>
-            <span className='text-[1px] mr-[4.6px]'>1</span>
+            <span className='text-[2px] mr-[4.6px]'>1</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -98,7 +98,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[1px] mr-[4.6px]'>2</span>
+            <span className='text-[2px] mr-[4.6px]'>2</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -127,7 +127,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[1px] mr-[4.6px]'>3</span>
+            <span className='text-[2px] mr-[4.6px]'>3</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
@@ -156,7 +156,7 @@ const App = () => {
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
             </div>
             <div className='flex mt-0.5 ml-[-5px]'>
-            <span className='text-[1px] mr-[4.6px]'>4</span>
+            <span className='text-[2px] mr-[4.6px]'>4</span>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
               <div className='h-1 w-1 mr-0.5 bg-gray-200 border-1 border-gray-400'></div>
